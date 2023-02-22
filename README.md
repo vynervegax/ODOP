@@ -44,49 +44,9 @@ REACT_APP_API_ENDPOINT = <path to react api endpoint>
 API_MIDDLEWARE = <path to api middleware>
 ```
 
-## List of important files
+## List of important changes
 
 ```
-.github
-    - workflows
-        node.js.yml
-client
-    - public
-    - src
-        - actions
-        - components
-        - helpers
-        - img
-        - reducers
-        index.js
-        setupProxy.js
-        store.js
-        styles.css
-    package.json
-    .env
-server
-    - config
-        index.js
-        passport.js
-    - controller
-    - models
-    - routes
-test
-    - file
-    course.js
-    experience.js
-    image.js
-    project.js
-    system_test.js
-    user.js  
-.env
-package.json
-README.md
-server.js
-```
-
-//Changes done
-
 Course --> License
 Experience --> Tax Record
 Project --> Insurance
@@ -96,3 +56,5 @@ Summer -> SUV
 Semester 2 -> Lorry/Truck
 Annual <- In Progress
 Long Term <- Complete
+```
+
