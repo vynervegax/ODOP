@@ -85,36 +85,14 @@ README.md
 server.js
 ```
 
-
-
-
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+//Changes done
 
 Course --> License
-Document 
 Experience --> Tax Record
-Photo
 Project --> Insurance
-
-
-
 Winter -> Car/Sedan
-
 Semester 1 -> Motorcycle
-
 Summer -> SUV
-
 Semester 2 -> Lorry/Truck
-
-
 Annual <- In Progress
 Long Term <- Complete
